@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins - Accessible External Text Links - Stable "
+"(latest release)\n"
+"POT-Creation-Date: 2023-02-12 12:03+0100\n"
+"PO-Revision-Date: 2023-02-12 12:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\Users\\delis\\OneDrive\\@DEV\\wordpress\\trunk\n"
+
+#: D:\Users\delis\OneDrive\@DEV\wordpress\trunk/accessible-external-text-links.php:49
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: D:\Users\delis\OneDrive\@DEV\wordpress\trunk/accessible-external-text-links.php:74
+msgid "Options saved."
+msgstr ""
+
+#: D:\Users\delis\OneDrive\@DEV\wordpress\trunk/accessible-external-text-links.php:83
+msgid "Accessible external links settings"
+msgstr ""
+
+#: D:\Users\delis\OneDrive\@DEV\wordpress\trunk/accessible-external-text-links.php:92
+msgid "Image alternative text (alt attribute content):"
+msgstr ""
+
+#: D:\Users\delis\OneDrive\@DEV\wordpress\trunk/accessible-external-text-links.php:98
+msgid "Reset"
+msgstr ""
+
+#. Description of the plugin
+msgid "I created this plugin to make external text links more accessible to people with disabilities by displaying an image with an alternative that informs the user that the link will open in a new window. Thanx to Romain Gervois for help."
+msgstr ""
